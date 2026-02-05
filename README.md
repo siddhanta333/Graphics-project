@@ -3,5 +3,5 @@ This mini project is a Rotating Windmill Simulation that demonstrates basic comp
 Language & Tools Used: Python with PyOpenGL
 
 Created By:
-Siddhanta Sapkota — Roll No: 14
+Siddhanta Sapkota — Roll No: 14 and 
 Suraj Sharma Poudel — Roll No: 16
